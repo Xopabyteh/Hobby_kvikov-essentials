@@ -1,0 +1,7 @@
+name: kvikov-essentials
+version: '${project.version}'
+main: me.xopabyteh.kvikovessentials.Kvikov_essentials
+api-version: 1.19
+commands:
+  scoretweak:
+    description: Tweak the score settings
